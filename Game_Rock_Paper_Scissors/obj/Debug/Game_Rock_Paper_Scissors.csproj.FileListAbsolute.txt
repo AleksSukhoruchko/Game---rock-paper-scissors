@@ -1,0 +1,7 @@
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\bin\Debug\Game_Rock_Paper_Scissors.exe.config
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\bin\Debug\Game_Rock_Paper_Scissors.exe
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\bin\Debug\Game_Rock_Paper_Scissors.pdb
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\obj\Debug\Game_Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\obj\Debug\Game_Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\obj\Debug\Game_Rock_Paper_Scissors.exe
+C:\Users\aleks\source\repos\Game_Rock_Paper_Scissors\Game_Rock_Paper_Scissors\obj\Debug\Game_Rock_Paper_Scissors.pdb
